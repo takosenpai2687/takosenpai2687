@@ -12,7 +12,7 @@
 
 📓 Chinese [Blog](https://takosenpai2687.github.io/)
 
-🐙 Creator of [TakoTako](https://tako-tako.netlify.app/). (Work in progress)
+🐙 Creator of [TakoTako](https://tako-tako.netlify.app/). A tool for games I play regularly. (Work in Progress)
 
 ### 🌐 Tech Stack -> Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
