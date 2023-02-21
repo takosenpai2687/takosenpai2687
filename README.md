@@ -8,7 +8,7 @@
 
 🌈 I code for fun. 
 
-🎮 Games I play: 🔫CS:GO, ⭐Genshin, ⚔️BnS(TW), 🦕Ark, 🗼LoL(ARAM).
+🎮 Games I play: 🔫 CS:GO, ⭐ Genshin, ⚔️ BnS (TW), 🦕 Ark, 🗼 LoL (ARAM).
 
 🐙 Creator of [TakoTako](https://tako-tako.netlify.app/). A tool for games I play regularly (Work in Progress).
 
