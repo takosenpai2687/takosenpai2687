@@ -2,7 +2,7 @@
 
 🌐 🇨🇳 -> Xi'an
 
-🧑‍🎓 Student at University of Sydney. 
+🧑‍🎓 Student @ University of Sydney. 
 
 👨‍💻 Casual web & frontend developer.
 
