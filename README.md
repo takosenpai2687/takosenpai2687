@@ -10,7 +10,7 @@
 
 🎮 Games I play: 🔫CS:GO, ⭐Genshin, ⚔️BnS(TW), 🦕Ark, 🗼LoL(ARAM).
 
-🐙 Creator of [TakoTako](https://tako-tako.netlify.app/). A tool for games I play regularly(Work in Progress).
+🐙 Creator of [TakoTako](https://tako-tako.netlify.app/). A tool for games I play regularly (Work in Progress).
 
 📓 My Chinese [Blog](https://takosenpai2687.github.io/)
 
