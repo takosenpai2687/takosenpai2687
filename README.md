@@ -1,6 +1,6 @@
 ## ♂️ Tako Senpai
 
-🌐 🇨🇳 -> Xi'an
+🏠 🇨🇳 -> Xi'an
 
 🧑‍🎓 Student @ University of Sydney.
 
