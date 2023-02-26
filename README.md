@@ -1,4 +1,4 @@
-## ♂️ Tako Senpai
+## 🐙 Tako Senpai
 
 🏠 🇨🇳 -> Xi'an
 
