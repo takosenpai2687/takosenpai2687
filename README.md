@@ -1,12 +1,12 @@
 ## ♂️ Tako Senpai
 
-<img align="right" src="https://count.getloli.com/get/@takosenpai2687?theme=moebooru">
-
 🌐 🇨🇳 -> Xi'an
 
 🧑‍🎓 Student @ University of Sydney.
 
 🌈 Casual web & frontend developer. Coding for fun.
+
+<img align="right" src="https://count.getloli.com/get/@takosenpai2687?theme=moebooru">
 
 🎮 Games I play:
 
