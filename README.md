@@ -6,7 +6,7 @@
 
 🌈 Casual web & frontend developer. Coding for fun.
 
-<img align="right" src="https://count.getloli.com/get/@takosenpai2687?theme=moebooru">
+<img align="right" style="position: absolute; top: 30%;right: 10px;" src="https://count.getloli.com/get/@takosenpai2687?theme=moebooru">
 
 🎮 Games I play:
 
