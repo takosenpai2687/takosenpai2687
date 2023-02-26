@@ -33,5 +33,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=takosenpai2687&theme=default&hide_border=false">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=takosenpai2687&theme=default&hide_border=false&include_all_commits=true&count_private=true">
+
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=takosenpai2687&theme=default&hide_border=false&include_all_commits=true&count_private=true">
+<img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=takosenpai2687&theme=default&hide_border=false">
