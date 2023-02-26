@@ -35,6 +35,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <div style="display: flex; flex-wrap: wrap; gap: .6rem; justify-content: flex-start; align-items: center;">
-    <img style="height: 10rem;" src="https://github-readme-stats.vercel.app/api?username=takosenpai2687&theme=github&hide_border=true&include_all_commits=true&count_private=true">
-    <img style="height: 10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=takosenpai2687&theme=default&hide_border=true">
+    <img style="height: 10.5rem;" src="https://github-readme-stats.vercel.app/api?username=takosenpai2687&theme=github&hide_border=true&include_all_commits=true&count_private=true">
+    <img style="height: 10.5rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=takosenpai2687&theme=default&hide_border=true">
 </div>
