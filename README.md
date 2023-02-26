@@ -10,8 +10,8 @@
 
 🎮 Games I play:
 
--   🔫 CS:GO
 -   ⭐ Genshin
+-   🔫 CS:GO
 -   ⚔️ BnS (TW)
 -   🦕 Ark
 -   🗼 LoL (ARAM).
