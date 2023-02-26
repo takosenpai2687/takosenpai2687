@@ -1,6 +1,7 @@
 ## ♂️ Tako Senpai
 
 <img align="right" src="https://count.getloli.com/get/@takosenpai2687?theme=moebooru">
+
 🌐 🇨🇳 -> Xi'an
 
 🧑‍🎓 Student @ University of Sydney.
