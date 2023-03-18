@@ -38,4 +38,5 @@
     <img style="height: 10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=takosenpai2687&theme=default&hide_border=true&ring=FF9800">
     <img style="height: 10rem;" src="https://github-readme-stats.vercel.app/api?username=takosenpai2687&theme=github&hide_border=true&include_all_commits=true&count_private=true&ring_color=FF9800">
 </div>
+
 ![](https://komarev.com/ghpvc/?username=takosenpai2687)
