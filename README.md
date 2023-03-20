@@ -12,8 +12,8 @@
 
 -   ⭐ Genshin
 -   🔫 CS:GO
--   ⚔️ BnS (TW)
 -   🦕 Ark
+-   ⚔️ BnS (TW)
 -   🗼 LoL (ARAM)
 
 🐙 Creator of [TakoTako](https://tako-tako.netlify.app/): A tool for games I play regularly (_Work in Progress_).
