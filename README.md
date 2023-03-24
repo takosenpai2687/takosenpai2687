@@ -16,7 +16,7 @@
 -   ⚔️ BnS (TW)
 -   🗼 LoL (ARAM)
 
-🐙 Creator of [TakoTako](https://tako-tako.netlify.app/): A tool for games I play regularly (🚧 _Work in Progress_).
+🐙 Creator of [TakoTako](https://tako-tako.netlify.app/): A tool for games I play regularly ( 🚧 _Work in Progress_ ).
 
 📓 My Chinese [Blog](https://takosenpai2687.github.io/)
 
