@@ -39,4 +39,6 @@
     <img style="height: 10rem;" src="https://github-readme-stats.vercel.app/api?username=takosenpai2687&theme=github&hide_border=true&include_all_commits=true&count_private=true&ring_color=FF9800">
 </div>
 
+![](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftakosenpai2687&logo=leetcode&logoColor=yellow)
+
 ![](https://komarev.com/ghpvc/?username=takosenpai2687)
