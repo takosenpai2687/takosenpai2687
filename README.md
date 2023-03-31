@@ -15,12 +15,15 @@
 -   🦕 Ark
 -   ⚔️ BnS (TW)
 -   🗼 LoL (ARAM)
+-   🗡️ WoW
 
 🐙 Creator of [TakoTako](https://tako-tako.netlify.app/): A tool for games I play regularly ( 🚧 _Work in Progress_ ).
 
 📓 My Chinese [Blog](https://takosenpai2687.github.io/)
 
-![](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftakosenpai2687&logo=leetcode&logoColor=yellow)
+(ง๑ •̀_•́)ง
+
+![](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftakosenpai2687&logo=leetcode&logoColor=yellow) 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
