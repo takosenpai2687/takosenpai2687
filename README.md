@@ -8,15 +8,6 @@
 
 <!-- <img align="right" src="https://count.getloli.com/get/@takosenpai2687?theme=moebooru"> -->
 
-🎮 Games I play:
-
--   ⭐ Genshin
--   🔫 CS:GO
--   🦕 Ark
--   ⚔️ BnS (TW)
--   🗼 LoL (ARAM)
--   🗡️ WoW
-
 🐙 Creator of [TakoTako](https://tako-tako.netlify.app/): A tool for games I play regularly ( 🚧 _Work in Progress_ ).
 
 📓 My Chinese [Blog](https://takosenpai2687.github.io/)
