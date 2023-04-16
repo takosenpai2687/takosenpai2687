@@ -4,7 +4,7 @@
 
 🧑‍🎓 Student @ University of Sydney.
 
-🌈 Casual web & frontend developer. Coding for fun.
+🌈 Casual web developer. Coding for fun. Knows how to invert a binary tree 🌳
 
 <!-- <img align="right" src="https://count.getloli.com/get/@takosenpai2687?theme=moebooru"> -->
 
