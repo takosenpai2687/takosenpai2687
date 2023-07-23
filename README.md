@@ -39,7 +39,8 @@
 ![](https://komarev.com/ghpvc/?username=takosenpai2687)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/takosenpai2687/takosenpai2687/504de498fcce1d1a250aa0e510e612c79542e545/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/takosenpai2687/takosenpai2687/504de498fcce1d1a250aa0e510e612c79542e545/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/takosenpai2687/takosenpai2687/504de498fcce1d1a250aa0e510e612c79542e545/github-contribution-grid-snake.svg" />
+  
 </picture>
