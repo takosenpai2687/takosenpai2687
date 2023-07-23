@@ -36,11 +36,10 @@
     <img style="height: 10rem;" src="https://github-readme-stats.vercel.app/api?username=takosenpai2687&theme=github&hide_border=true&include_all_commits=true&count_private=true&ring_color=FF9800">
 </div>
 
-![](https://komarev.com/ghpvc/?username=takosenpai2687)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/takosenpai2687/takosenpai2687/504de498fcce1d1a250aa0e510e612c79542e545/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/takosenpai2687/takosenpai2687/504de498fcce1d1a250aa0e510e612c79542e545/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/takosenpai2687/takosenpai2687/504de498fcce1d1a250aa0e510e612c79542e545/github-contribution-grid-snake.svg" />
-  
 </picture>
+
+![](https://komarev.com/ghpvc/?username=takosenpai2687)
