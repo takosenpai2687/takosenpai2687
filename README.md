@@ -1,9 +1,5 @@
 ## 🐙 Tako Senpai
 
-🏠 🇨🇳 -> Xi'an
-
-🧑‍🎓 Student @ University of Sydney.
-
 🌈 Casual web developer. Coding for fun. Knows how to invert a binary tree 🌳
 
 <!-- <img align="right" src="https://count.getloli.com/get/@takosenpai2687?theme=moebooru"> -->
