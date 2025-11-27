@@ -27,16 +27,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<div style="display: flex; flex-wrap: wrap; gap: .6rem; justify-content: flex-start; align-items: center;">
-    <img style="height: 10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=takosenpai2687&theme=default&hide_border=true&ring=FF9800">
-    <img style="height: 10rem;" src="https://github-readme-stats.vercel.app/api?username=takosenpai2687&theme=github&hide_border=true&include_all_commits=true&count_private=true&ring_color=FF9800">
-</div>
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/takosenpai2687/takosenpai2687/504de498fcce1d1a250aa0e510e612c79542e545/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/takosenpai2687/takosenpai2687/504de498fcce1d1a250aa0e510e612c79542e545/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/takosenpai2687/takosenpai2687/504de498fcce1d1a250aa0e510e612c79542e545/github-contribution-grid-snake.svg" />
-</picture> -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takosenpai2687)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=takosenpai2687)
  
