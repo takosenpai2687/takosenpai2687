@@ -27,7 +27,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=takosenpai2687)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=takosenpai2687&rank_icon=github&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=takosenpai2687&rank_icon=github&show_icons=true&include_all_commits=true&theme=light_github)
 
 ![](https://komarev.com/ghpvc/?username=takosenpai2687)
  
