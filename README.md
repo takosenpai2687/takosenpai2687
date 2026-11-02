@@ -27,7 +27,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takosenpai2687)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=takosenpai2687)](https://github.com/stats-organization/github-stats-extended)
 
 ![](https://komarev.com/ghpvc/?username=takosenpai2687)
  
