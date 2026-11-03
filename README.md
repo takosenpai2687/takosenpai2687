@@ -8,7 +8,9 @@
 
 📓 My Chinese [Blog](https://takosenpai2687.github.io/)
 
-(ง๑ •̀_•́)ง
+【自用】[日语学习小网站](https://tako-jp.netlify.app/) （🚧 _Work in Progress_）
+
+(ง๑ •̀_•́)ง 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=white) 
